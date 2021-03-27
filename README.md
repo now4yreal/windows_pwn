@@ -1,5 +1,5 @@
 # windows_pwn
-Record my learning path of windows kernel and windows pwn.  
+blabla... 
 
 * qwb2020 wingame
   
